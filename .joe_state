@@ -1,0 +1,30 @@
+# JOE state file v1.0
+search
+done
+macros
+done
+files
+	"/home/isidea/www/poks.isidea.ru/d05.poks.isidea.ru/.git/MERGE_MSG\n"
+done
+find
+done
+replace
+done
+run
+done
+build
+done
+grep
+done
+cmd
+done
+math
+done
+yank
+done
+file_pos
+	0 "/home/isidea/www/poks.isidea.ru/d05.poks.isidea.ru/.git/MERGE_MSG"
+done
+colors
+	"xterm" "default"
+done
