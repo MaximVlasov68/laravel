@@ -21,3 +21,4 @@ yarn-error.log
 .wget-hsts
 .gnupg
 .local
+.gitconfig
